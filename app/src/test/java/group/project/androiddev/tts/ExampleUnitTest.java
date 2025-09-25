@@ -1,8 +1,16 @@
+/*
+ * Copyright (c) 2025 Pham The Minh
+ * All rights reserved.
+ * Project: TTS implementation
+ * File: ExampleUnitTest.java
+ * Last Modified: 25/9/2025 8:55
+ */
+
 package group.project.androiddev.tts;
 
-import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 
-import static org.junit.Assert.*;
+import org.junit.Test;
 
 /**
  * Example local unit test, which will execute on the development machine (host).

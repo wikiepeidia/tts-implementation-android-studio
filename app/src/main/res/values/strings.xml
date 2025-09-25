@@ -1,3 +1,11 @@
+<!--
+  ~ Copyright (c) 2025 Pham The Minh
+  ~ All rights reserved.
+  ~ Project: TTS implementation
+  ~ File: strings.xml
+  ~ Last Modified: 25/9/2025 8:55
+  -->
+
 <resources>
     <string name="app_name">TTS implementation</string>
 </resources>
